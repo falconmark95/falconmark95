@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @falconmark95
 - 👀 I’m interested in learning how to program 
 - 🌱 I’m currently learning Python to get started
-- 💞️ I’m looking to collaborate on projects that deal with data science such as creating programs for trading or handling data mroe efficiently 
+- 💞️ I’m looking to collaborate on projects that teach me how to improve AI functions as well as understanding data statistics
 - 📫 How to reach me: https://www.linkedin.com/in/markhfalcon/
 
 <!---
