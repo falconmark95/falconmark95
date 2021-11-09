@@ -1,7 +1,0 @@
-This file is testing the 'r+' argument
-nteger: 1
-string: mark
-Now that you can add and append to a file
-practice the usage for mark
-As a result the text overwrites what up to what characters were used
-Including the escape character.
